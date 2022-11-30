@@ -1,29 +1,29 @@
  {
- "contactOwner": "Nomor ke 1 lu",
- "contactOwner2": "Nomor ke 2 lu", 
- "botName": "Nama Bot",
- "ownerName": "Nama lu",
+ "contactOwner": "081247822525",
+ "contactOwner2": "081247822525", 
+ "botName": "Bot Kyut",
+ "ownerName": "Rii",
  "sessionName": "session",
  "footer": "Nama Bot © 2022",
  "packname": "Seterah",
  "author": "Seterah",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
- "github": "Github lu",
- "instagram": "Instagram lu",
- "tiktok": "Tiktok lu",
- "website": "Website lu",
- "email": "Email lu",
- "gender": "Gender/Alat kelamin lu",
- "agama": "Agama lu",
- "tanggallahir": "Tanggal lahir lu",
- "umur": "Umur lu",
- "kelas": "Kelas lu",
- "hobi": "Hobi lu",
- "sifat": "Sifat lu",
- "tinggal": "Tempat tinggal lu",
- "suka": "Lu suka apa? ",
- "benci": "Lu benci apa? ",
+ "youtube": "malas",
+ "github": "https://github.com/Riidek",
+ "instagram": "gda",
+ "tiktok": "gda",
+ "website": "https://github.com/Riidek",
+ "email": "riiemail001@gmail.com",
+ "gender": "cwo",
+ "agama": "islam",
+ "tanggallahir": "1-1-1",
+ "umur": "1",
+ "kelas": "2",
+ "hobi": "galau",
+ "sifat": "jahat",
+ "tinggal": "di bumi",
+ "suka": "suka olang cina ",
+ "benci": "benci semuanya ",
  
   "login_di": "https://alphabot-api.herokuapp.com",
   "apikey_alpha": "APIKEY LU", 
@@ -39,12 +39,12 @@
  
  "payment": {
     "qris": {
-      "link_nya": "Link gambar qris lu", 
-      "atas_nama": "Nama lu" 
+      "link_nya": "gda cug", 
+      "atas_nama": "gdaaaa" 
     },
     "dana": {
-      "nomer": "Nomor dana lu", 
-      "atas_nama": "Nama lu" 
+      "nomer": "noo", 
+      "atas_nama": "gda" 
     }},
     
   "pathQris": "./temp/media/qris.jpg", 
